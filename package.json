@@ -4,7 +4,7 @@
   "name": "webpack-project",
   "type": "module",
   "engines": {
-    "node": ">=22.6.0"
+    "node": "24.14"
   },
   "scripts": {
     "build": "webpack --mode=production --config-node-env=production",
