@@ -1,4 +1,4 @@
-# 🚀 Welcome to your new awesome project!
+# 🚀 Welcome to awesome project!
 
 This project has been created using **create-webpack-app**, you can now run
 
